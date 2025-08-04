@@ -1,9 +1,10 @@
-## Hi there 👋
-I'm Joan! I've been working on diving since 2014 and on artistic painting since 2003. I started into web developing because I wanted to know deeply about cibersecurity and I discovered a really creative world in developing. I started a full-stack developing with 4geeks in 2025, sooooo here I am! <br>
+## Hola a tod@s! soy Joan Domínguez Fernández 👋
+🎓 Recientemente egresado del bootcamp de 4Geeks Academy, donde aprendí los fundamentos del desarrollo web con tecnologías como HTML, CSS, JavaScript, React, Python, MySQL y consumo de APIs.
+🚀 Estoy dando mis primeros pasos en el mundo tech, con muchas ganas de seguir aprendiendo, crear proyectos reales y crecer como desarrollador. <br>
 [![Gmail Badge](https://img.shields.io/badge/-juandomz87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
