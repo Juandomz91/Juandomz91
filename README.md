@@ -5,26 +5,28 @@
 
 
 ## ⚡ Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript Icon" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="40" height="40" alt="Bootstrap Icon"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" />
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=juandomz91&count_private=true&show_icons=true&include_all_commits=true)
 
-🌍 Idiomas
-🗣 Español & Catalán (Nativos)
-🗣 Inglés (B2 )
-🗣 Francés(B1)
-🗣 Italiano(A2)
+<h3>🌍 Idiomas</h3> <br>
+🗣 Español & Catalán (Nativos) <br>
+🗣 Inglés (B2 ) <br>
+🗣 Francés(B1) <br>
+🗣 Italiano(A2) <br>
 
 
-📫 Contacto
-📩 Email: Juandomz87@gmail.com
-🔗 LinkedIn: Juan Domínguez Fernández
+<h3>📫 Contacto </h3> <br>
+📩 Email: Juandomz87@gmail.com <br>
+🔗 LinkedIn: Juan Domínguez Fernández <br>
 
 
-🚀 Buscando activamente oportunidades en España y a nivel internacional, especialmente en Europa, Norteamérica y APJ.
+🚀 Buscando activamente oportunidades en España y a nivel internacional, especialmente en Europa y Norteamérica
 
 ¡Gracias por visitar mi perfil de GitHub! 😊💻
 
