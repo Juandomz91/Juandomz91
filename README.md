@@ -12,6 +12,23 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=juandomz91&count_private=true&show_icons=true&include_all_commits=true)
 
+🌍 Idiomas
+🗣 Español & Catalán (Nativos)
+🗣 Inglés (B2 )
+🗣 Francés(B1)
+🗣 Italiano(A2)
+
+
+📫 Contacto
+📩 Email: Juandomz87@gmail.com
+🔗 LinkedIn: Juan Domínguez Fernández
+
+
+🚀 Buscando activamente oportunidades en España y a nivel internacional, especialmente en Europa, Norteamérica y APJ.
+
+¡Gracias por visitar mi perfil de GitHub! 😊💻
+
+
 <!--
 **Juandomz91/Juandomz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
