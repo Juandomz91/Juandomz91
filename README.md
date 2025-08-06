@@ -1,6 +1,5 @@
 ## Hola a tod@s! soy Joan Domínguez Fernández 👋
-🎓 Recientemente egresado del bootcamp de 4Geeks Academy, donde aprendí los fundamentos del desarrollo web con tecnologías como HTML, CSS, JavaScript, React, Python, MySQL y consumo de APIs.
-🚀 Estoy dando mis primeros pasos en el mundo tech, con muchas ganas de seguir aprendiendo, crear proyectos reales y crecer como desarrollador. <br>
+ Desarrollador web orientado a crear soluciones funcionales, escalables y bien estructuradas. Trabajo con JavaScript, React, Python, HTML, CSS, MySQL y APIs priorizando siempre el código limpio y mantenible. Me motiva aprender continuamente, colaborar en entornos dinámicos y aportar valor real a través de la tecnología. Cada proyecto es una oportunidad para mejorar, optimizar y construir con propósito. <br>
 [![Gmail Badge](https://img.shields.io/badge/-juandomz87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 
