@@ -5,12 +5,12 @@
 
 
 ## ⚡ Tecnologias
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript Icon" /> JAVASCRIPT  
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40"/> HTML
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="40" height="40"/> CSS
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="40" height="40" alt="Bootstrap Icon"/> BOOSTRAP
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" /> PYTHON
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40" height="40" alt="React" /> REACT.JS
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript Icon" /> JAVASCRIPT  <br>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40"/> HTML <br>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="40" height="40"/> CSS <br>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="40" height="40" alt="Bootstrap Icon"/> BOOSTRAP <br>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" /> PYTHON <br>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40" height="40" alt="React" /> REACT.JS <br>
 
 
 
